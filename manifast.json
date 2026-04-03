@@ -1,0 +1,10 @@
+{
+  "mcpVersion": "1.0.0",
+  "name": "my-mcp-skill",
+  "version": "1.0.0",
+  "description": "A sample skill",
+  "main": "index.js", 
+  "capabilities": {
+    "tools": true
+  }
+}
